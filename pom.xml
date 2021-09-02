@@ -7,7 +7,7 @@
     <!-- 抽离common bean -->
     <groupId>com.lfd.soa</groupId>
     <artifactId>common</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0.1-SNAPSHOT</version>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
@@ -20,7 +20,7 @@
         <dependency>
             <groupId>com.lfd.soa</groupId>
             <artifactId>spring-boot-starter</artifactId>
-            <version>1.0-SNAPSHOT</version>
+            <version>1.0.1-SNAPSHOT</version>
         </dependency>
     </dependencies>
 
