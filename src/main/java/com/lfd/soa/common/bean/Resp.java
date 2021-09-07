@@ -1,10 +1,10 @@
 package com.lfd.soa.common.bean;
 
-import com.google.common.collect.Maps;
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;
 
 import java.util.Date;
+import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
@@ -32,7 +32,7 @@ public class Resp<T> {
 
     public Resp() {
         this.timestamp = new Date();
-        this.errors = Maps.newHashMap();
+        this.errors = new HashMap<>(16);
         this.code = 0;
         this.isSuccess = true;
         this.message = "SUCCESS";

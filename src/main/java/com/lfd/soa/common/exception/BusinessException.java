@@ -6,7 +6,7 @@ import lombok.Getter;
  * 描述: 业务异常类
  *
  * @author linfengda
- * @create 2019-01-23 13:22
+ * @date 2019-01-23 13:22
  */
 @Getter
 public class BusinessException extends RuntimeException {

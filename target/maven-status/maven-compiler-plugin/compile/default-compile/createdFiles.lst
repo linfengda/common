@@ -1,10 +1,10 @@
 com/lfd/soa/common/util/SpringUtil.class
 com/lfd/soa/common/exception/GlobalExceptionHandler.class
 com/lfd/soa/common/util/JsonUtil.class
-com/lfd/soa/common/util/IpUtil.class
 com/lfd/soa/common/util/ValidationUtils.class
 com/lfd/soa/common/util/ServerRunTimeUtil.class
 com/lfd/soa/common/bean/IBasePageParamReq.class
+com/lfd/soa/common/bean/Resp.class
 com/lfd/soa/common/bean/Result.class
 com/lfd/soa/common/bean/BasePageParamReq.class
 com/lfd/soa/common/util/ValidationUtils$ValidationResult.class
