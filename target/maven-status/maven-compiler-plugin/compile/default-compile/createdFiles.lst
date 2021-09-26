@@ -8,6 +8,7 @@ com/lfd/soa/common/bean/Resp.class
 com/lfd/soa/common/bean/Result.class
 com/lfd/soa/common/bean/BasePageParamReq.class
 com/lfd/soa/common/util/ValidationUtils$ValidationResult.class
+com/lfd/soa/common/bean/type/DeleteTag.class
 com/lfd/soa/common/bean/po/BaseIncrementEntity.class
 com/lfd/soa/common/constants/ErrorCode.class
 com/lfd/soa/common/exception/BusinessException.class
