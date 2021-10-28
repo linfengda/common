@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="35e24113-3937-4412-957b-479e7f156e27" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lfd/soa/common/bean/Resp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lfd/soa/common/bean/Resp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lfd/soa/common/exception/BusinessException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lfd/soa/common/exception/BusinessException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lfd/soa/common/util/IpUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lfd/soa/common/bean/BasePageParamReq.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lfd/soa/common/bean/IBasePageParamReq.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lfd/soa/common/bean/Result.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lfd/soa/common/bean/po/BaseIncrementEntity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lfd/soa/common/exception/BusinessException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lfd/soa/common/exception/GlobalExceptionHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lfd/soa/common/util/IpUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lfd/soa/common/util/JsonUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lfd/soa/common/util/ServerRunTimeUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/common-1.0-SNAPSHOT.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,16 +31,17 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1pYduV2roSz78156RBHAvVklfOJ" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -58,6 +56,20 @@
       <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -87,6 +99,9 @@
       <workItem from="1630992669238" duration="492000" />
       <workItem from="1631014203040" duration="12000" />
       <workItem from="1631033932088" duration="1503000" />
+      <workItem from="1632618163588" duration="302000" />
+      <workItem from="1632812516759" duration="29000" />
+      <workItem from="1635410845266" duration="88000" />
     </task>
     <task id="LOCAL-00001" summary="feat: 提交">
       <created>1630544722597</created>
@@ -106,50 +121,22 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: 提交" />
     <option name="LAST_COMMIT_MESSAGE" value="feat: 提交" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="486" y="313" width="467" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1630586913407">
-      <screen x="0" y="23" width="1440" height="797" />
-    </state>
-    <state x="486" y="313" width="467" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1440.797@0.23.1440.797" timestamp="1630586913407" />
-    <state x="257" y="25" key="CommitChangelistDialog2" timestamp="1630587589201">
-      <screen x="0" y="23" width="1440" height="797" />
-    </state>
-    <state x="257" y="25" key="CommitChangelistDialog2/0.23.1440.797@0.23.1440.797" timestamp="1630587589201" />
-    <state x="257" y="27" key="CommitChangelistDialog2/0.23.1440.803@0.23.1440.803" timestamp="1630544722383" />
-    <state width="1396" height="201" key="GridCell.Tab.0.bottom" timestamp="1631035493575">
-      <screen x="0" y="23" width="1440" height="803" />
-    </state>
-    <state width="1396" height="201" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1630587735595" />
-    <state width="1396" height="201" key="GridCell.Tab.0.bottom/0.23.1440.800@0.23.1440.800" timestamp="1631035050115" />
-    <state width="1396" height="201" key="GridCell.Tab.0.bottom/0.23.1440.803@0.23.1440.803" timestamp="1631035493575" />
-    <state width="1396" height="201" key="GridCell.Tab.0.center" timestamp="1631035493574">
-      <screen x="0" y="23" width="1440" height="803" />
-    </state>
-    <state width="1396" height="201" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1630587735594" />
-    <state width="1396" height="201" key="GridCell.Tab.0.center/0.23.1440.800@0.23.1440.800" timestamp="1631035050113" />
-    <state width="1396" height="201" key="GridCell.Tab.0.center/0.23.1440.803@0.23.1440.803" timestamp="1631035493574" />
-    <state width="1396" height="201" key="GridCell.Tab.0.left" timestamp="1631035493574">
-      <screen x="0" y="23" width="1440" height="803" />
-    </state>
-    <state width="1396" height="201" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1630587735594" />
-    <state width="1396" height="201" key="GridCell.Tab.0.left/0.23.1440.800@0.23.1440.800" timestamp="1631035050113" />
-    <state width="1396" height="201" key="GridCell.Tab.0.left/0.23.1440.803@0.23.1440.803" timestamp="1631035493574" />
-    <state width="1396" height="201" key="GridCell.Tab.0.right" timestamp="1631035493575">
-      <screen x="0" y="23" width="1440" height="803" />
-    </state>
-    <state width="1396" height="201" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1630587735594" />
-    <state width="1396" height="201" key="GridCell.Tab.0.right/0.23.1440.800@0.23.1440.800" timestamp="1631035050114" />
-    <state width="1396" height="201" key="GridCell.Tab.0.right/0.23.1440.803@0.23.1440.803" timestamp="1631035493575" />
-    <state x="320" y="163" key="Vcs.Push.Dialog.v2" timestamp="1630587591513">
-      <screen x="0" y="23" width="1440" height="797" />
-    </state>
-    <state x="320" y="163" key="Vcs.Push.Dialog.v2/0.23.1440.797@0.23.1440.797" timestamp="1630587591513" />
-    <state x="320" y="164" key="Vcs.Push.Dialog.v2/0.23.1440.803@0.23.1440.803" timestamp="1630545024285" />
   </component>
 </project>
