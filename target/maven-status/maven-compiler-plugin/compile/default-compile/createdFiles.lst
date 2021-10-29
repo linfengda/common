@@ -2,6 +2,7 @@ com\lfd\soa\common\util\ValidationUtils$ValidationResult.class
 com\lfd\soa\common\bean\IBasePageParamReq.class
 com\lfd\soa\common\exception\BusinessException.class
 com\lfd\soa\common\bean\BasePageParamReq.class
+com\lfd\soa\common\bean\type\DeleteTag.class
 com\lfd\soa\common\util\JsonUtil.class
 com\lfd\soa\common\constants\ErrorCode.class
 com\lfd\soa\common\util\ServerRunTimeUtil.class
@@ -11,3 +12,4 @@ com\lfd\soa\common\exception\GlobalExceptionHandler.class
 com\lfd\soa\common\util\ValidationUtils.class
 com\lfd\soa\common\bean\Result.class
 com\lfd\soa\common\bean\po\BaseIncrementEntity.class
+com\lfd\soa\common\bean\type\BaseType.class
