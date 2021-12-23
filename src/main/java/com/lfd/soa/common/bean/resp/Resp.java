@@ -1,4 +1,4 @@
-package com.lfd.soa.common.bean;
+package com.lfd.soa.common.bean.resp;
 
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;

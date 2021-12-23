@@ -1,4 +1,4 @@
-package com.lfd.soa.common.bean;
+package com.lfd.soa.common.bean.req;
 
 import io.swagger.annotations.ApiModelProperty;
 import lombok.Data;
