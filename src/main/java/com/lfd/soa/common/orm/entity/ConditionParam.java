@@ -1,6 +1,6 @@
 package com.lfd.soa.common.orm.entity;
 
-import com.lfd.soa.common.bean.type.SortType;
+import com.lfd.soa.common.orm.type.SortType;
 import com.lfd.soa.common.orm.utils.ClassUtil;
 
 import java.io.Serializable;
